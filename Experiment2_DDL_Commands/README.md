@@ -118,8 +118,7 @@ ADD COLUMN DOB Date;
 ```
 
 **Output:**
-
-<img width="1246" height="298" alt="image" src="https://github.com/user-attachments/assets/9a57033e-
+<img width="1246" height="298" alt="image" src="https://github.com/user-attachments/assets/9a57033e-86c6-486b-918b-67f507d83a38" />
 
 **Question 2**
 ---
@@ -160,7 +159,7 @@ Stock INTEGER
 ```
 
 **Output:**
-<img width="1267" height="236" alt="image" src="https://github.com/user-attachments/assets/75ef66bf-1213-4704-bc7c-a
+<img width="1267" height="236" alt="image" src="https://github.com/user-attachments/assets/75ef66bf-1213-4704-bc7c-ad1cb882236d" />
 
 **Question 4**
 ---
@@ -293,12 +292,8 @@ ADD COLUMN net_salary number;
 ```
 
 **Output:**
-<img width="1233" height="311" alt="image" src="https://github.com/user-attachments/assets/f1aa1bf7-791f-44
 
-## RESULT
-Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
-
-![Output10](output.png)
+<img width="1233" height="311" alt="image" src="https://github.com/user-attachments/assets/f1aa1bf7-791f-44f8-a5a1-984ab9cfc896" />
 
 
 ## RESULT
